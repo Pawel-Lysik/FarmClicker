@@ -7,7 +7,6 @@
         <servlet-name>round3</servlet-name>
         <servlet-class>Main</servlet-class>
     </servlet>
-
     <servlet-mapping>
         <servlet-name>round3</servlet-name>
         <url-pattern>/main</url-pattern>
